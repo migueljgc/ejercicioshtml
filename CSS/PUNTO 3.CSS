@@ -1,0 +1,6 @@
+.borderedondeado {
+    border-radius: 10px;
+    padding: 5px;
+    background-color: seagreen;
+    border: 2px solid red;
+}

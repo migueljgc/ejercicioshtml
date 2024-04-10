@@ -1,0 +1,39 @@
+.dottedborder {
+    border: dotted 2px rgb(12, 33, 151);
+    padding: 5px;
+}
+
+.dashedborder {
+    border: dashed 2px rgb(255, 0, 0);
+    padding: 5px;
+}
+
+.solidborder {
+    border: solid 2px rgb(255, 251, 0);
+    padding: 5px;
+}
+
+.doubleborder {
+    border: double 5px green;
+    padding: 5px;
+}
+
+.grooveborder {
+    border: groove 5px rgb(190, 3, 190);
+    padding: 5px;
+}
+
+.ridgeborder {
+    border: ridge 5px rgb(236, 209, 54);
+    padding: 5px;
+}
+
+.insetborder {
+    border: inset 5px rgb(97, 34, 126);
+    padding: 5px;
+}
+
+.outsetborder {
+    border: outset 5px rgb(0, 0, 0);
+    padding: 5px;
+}

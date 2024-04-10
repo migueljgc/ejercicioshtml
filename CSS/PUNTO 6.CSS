@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #00a7f5;
+}
+
+form {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #1900fc;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+input, textarea{
+    border: solid 2px rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+.Enviar, .Restablecer{
+    cursor: pointer;
+}
+.img{
+    position: absolute;
+    width: 210px;
+    height: 205px;
+    left: 1000px;
+    top: 100px;
+}

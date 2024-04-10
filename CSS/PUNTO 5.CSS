@@ -1,0 +1,53 @@
+.container {
+    position: relative;
+    width: 286px;
+    height: 372px;
+    border: 1px solid black;
+}
+
+.resource-1 {
+    position: absolute;
+    padding: 50px;
+    width: 70px;
+    height: 85px;
+    background-color: yellow;
+    left: 1px;
+    top: 1px;
+    z-index: 10;
+}
+
+.resource-2 {
+    position: absolute;
+    padding: 50px;
+    width: 70px;
+    height: 85px;
+    background-color: blue;
+    left: 110px;
+    top: 70px;
+    z-index: 100;
+    border: solid 4px rgb(239, 240, 212);
+}
+
+.resource-3 {
+    position: absolute;
+    padding: 50px;
+    width: 80px;
+    height: 85px;
+    background-color: purple;
+    left: 50px;
+    top: 180px;
+    z-index: 150;
+    border: solid 4px rgb(77, 29, 83);
+}
+
+.resource-4 {
+    position: relative;
+    padding: 40px;
+    width: 70px;
+    height: 85px;
+    background-color: rgb(0, 255, 115);
+    left: 215px;
+    top: 155px;
+    z-index: 250;
+    border: solid 4px rgb(212, 0, 159);
+}
